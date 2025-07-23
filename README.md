@@ -53,6 +53,11 @@ This end-to-end Coffee Shop Sales Analysis project demonstrates how raw transact
 ▶ Sales Analysis by Days & Hours
   • Heatmap showing peak hours and days for sales
 
+![Capture](https://github.com/user-attachments/assets/65f52fd0-f986-4158-9707-a4c6f1351a79)
+
+
+
+
 ⚙️ Workflow (MySQL + Power BI Integration)
 a) Data Walkthrough
    • Initial understanding of structure, fields, and granularity
